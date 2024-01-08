@@ -9,12 +9,10 @@
 如果你有数据集购买/更高清晰度的模型 需求 可以联系 douzijun1999
 
 如果你有数据集处理/更高清晰度的模型 需求 可以联系 xaaheng
+
 """
 以下模型 由 dousang 提供
-【海康智存】这是我分享的文件
-链接：https://cloud.hiksemi.cn/#share-GYQPLS
-提取码：0632
-复制这段内容打开【海康智存APP即可获取】
+链接：https://cloud.hiksemi.cn/#share-GYQPLS 提取码：0632
 """
 
 
