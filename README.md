@@ -11,8 +11,9 @@
 如果你有数据集处理/更高清晰度的模型 需求 可以联系 xaaheng
 
 """
-以下模型 由 dousang 提供
+以下模型 由 dousang （来自财哥）提供
 链接：https://cloud.hiksemi.cn/#share-GYQPLS 提取码：0632
+链接：https://pan.baidu.com/s/1DfUbJDly54ZTZbyKfCZuow?pwd=ehb8 提取码：ehb8 
 """
 
 
