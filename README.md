@@ -10,6 +10,10 @@
 
 如果你有数据集处理/更高清晰度的模型 需求 可以联系 xaaheng
 
+
+https://github.com/zvxme/wav2lip_chinese/assets/19506817/f7919bd5-4737-4ab6-8e1e-265791df3b84
+
+
 """
 以下模型 由 dousang （来自财哥）提供
 链接：https://cloud.hiksemi.cn/#share-GYQPLS 提取码：0632
