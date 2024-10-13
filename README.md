@@ -4,9 +4,9 @@
 
 程序不联网 因为一些原因 权重、代码已加密 本储存库仅供学习 不要拿他来干任何坏事哦~
 
-当前以限制只允许用cpu推理 如果需要GPU推理: 
+模型: https://github.com/zvxme/wav2lip_chinese/releases/tag/checkpoint_20241014
 
-【装环境/玩一下/开GPU支持】 请私信 douzijun1999（给他点小红包 不然他要刁我）
+【看不懂】 请私信 douzijun1999（给他点小红包 不然他要刁我）
 
 【科研/企业/定制api/商业权重】 请联系 xaaheng
 
