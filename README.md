@@ -12,6 +12,9 @@
 
 第一次加载视频可能会假死 记得看调试窗口~
 
+正在做：新的模型》tts》语音克隆》直播
+
+
 ![image](https://github.com/user-attachments/assets/a17bc528-485b-4b63-8268-74b8f0d260a2)
 
 #环境严格按照以下要求 不然可能有奇奇怪怪的错误
