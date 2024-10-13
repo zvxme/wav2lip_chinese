@@ -10,7 +10,7 @@
 
 【科研/企业/定制api/商业权重】 请联系 xaaheng
 
-目前有点小bug 晚点更新
+第一次加载视频可能会假死 记得看调试窗口~
 
 ![image](https://github.com/user-attachments/assets/a17bc528-485b-4b63-8268-74b8f0d260a2)
 
@@ -26,6 +26,7 @@ ffmpge 咨询 百度 安装
 #pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
 #pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+#下面的一个都不能少
 
 #pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  websockets
 
