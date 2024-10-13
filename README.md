@@ -19,17 +19,28 @@ Conda Python 3.10.14
 
 ffmpge 咨询 百度 安装
 
-#torch 自己选自己的 我用的2.3.1+cu121 也可以简单点 pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple torch torchvision torchaudio  
+#torch 自己选自己的 我用的2.3.1+cu121 也可以简单点 pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple torch torchvision torchaudio
+
 #pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
 #pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
 #pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 
 #pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  websockets
+
 #pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  imageio-ffmpeg
+
 #pip install -i https://pypi.tuna.tsinghua.edu.cn/simple wxpython   
+
 #pip install -i https://pypi.tuna.tsinghua.edu.cn/simple librosa
+
 #pip install -i https://pypi.tuna.tsinghua.edu.cn/simple matplotlib
+
 #pip install -i https://pypi.tuna.tsinghua.edu.cn/simple scikit-image
+
 #pip install -i https://pypi.tuna.tsinghua.edu.cn/simple ultralytics 
+
 #pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mediapipe  
+
 #pip install -i https://pypi.tuna.tsinghua.edu.cn/simple cryptography
