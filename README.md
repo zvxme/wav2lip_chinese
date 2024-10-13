@@ -31,20 +31,6 @@ ffmpge 咨询 百度 安装
 #pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 #下面的一个都不能少
 
-#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  websockets
+#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  websockets imageio-ffmpeg wxpython librosa matplotlib scikit-image ultralytics mediapipe  cryptography
 
-#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  imageio-ffmpeg
 
-#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple wxpython   
-
-#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple librosa
-
-#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple matplotlib
-
-#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple scikit-image
-
-#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple ultralytics 
-
-#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mediapipe  
-
-#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple cryptography
