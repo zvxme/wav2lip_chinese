@@ -22,7 +22,7 @@ Conda Python 3.10.14
 
 ffmpge 咨询 百度 安装
 
-#torch 自己选自己的 我用的2.3.1+cu121 也可以简单点 pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple torch torchvision torchaudio
+#torch 自己选自己的 我用的2.3.1+cu121 也可以简单点 conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
 
 #pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
