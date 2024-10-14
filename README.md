@@ -15,11 +15,8 @@
 【科研/企业/定制api/商业权重】 请联系 xaaheng
 
 
+![image](https://github.com/user-attachments/assets/423851f4-e0e8-4a94-9d30-91e39f972258)
 
-
-
-
-![image](https://github.com/user-attachments/assets/a17bc528-485b-4b63-8268-74b8f0d260a2)
 
 #环境严格按照以下要求 不然可能有奇奇怪怪的错误
 Conda Python 3.10.14
