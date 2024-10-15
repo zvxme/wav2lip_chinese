@@ -17,7 +17,8 @@
 【科研/企业/定制api/商业权重】 请联系 xaaheng
 
 
-![image](https://github.com/user-attachments/assets/423851f4-e0e8-4a94-9d30-91e39f972258)
+![image](https://github.com/user-attachments/assets/2f83a491-3042-4280-89fa-5284abfa9465)
+
 
 
 #环境严格按照以下要求 不然可能有奇奇怪怪的错误
