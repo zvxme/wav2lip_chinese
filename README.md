@@ -5,6 +5,10 @@
 #模型（模型已加密 但下载即可免费使用）: [https://github.com/zvxme/wav2lip_chinese/releases/tag/checkpoint_20241014](https://github.com/zvxme/wav2lip_chinese/releases/tag/checkpoint)
 
 
+
+https://github.com/user-attachments/assets/3c284bac-4de1-4bb8-b240-c9c7acb55983
+
+
 #正在做：ai大模型》直播》字幕》语音克隆
 
 【看不懂】 请私信 douzijun1999（给他点小红包 不然他要刁我）
