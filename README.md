@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/3c284bac-4de1-4bb8-b240-c9c7acb55983
 
 【看不懂】 请私信 douzijun1999（给他点小红包 不然他要刁我）
 
-【科研/企业/定制api/商业权重】 请联系 xaaheng
+【科研/企业】 请联系 xaaheng
 
 
 ![image](https://github.com/user-attachments/assets/2f83a491-3042-4280-89fa-5284abfa9465)
