@@ -2,7 +2,7 @@
 
 #如果你也想加入 请联系微信:xaaheng 我们已创建讨论组一起讨论 记得看调试窗口~ 因为一些原因 权重、代码已加密 本储存库仅供学习 不要拿他来干任何坏事哦~
 
-#模型（已加密）: [https://github.com/zvxme/wav2lip_chinese/releases/tag/checkpoint_20241014](https://github.com/zvxme/wav2lip_chinese/releases/tag/checkpoint)
+#模型（模型已加密 但下载即可免费使用）: [https://github.com/zvxme/wav2lip_chinese/releases/tag/checkpoint_20241014](https://github.com/zvxme/wav2lip_chinese/releases/tag/checkpoint)
 
 
 #正在做：ai大模型》直播》字幕》语音克隆
