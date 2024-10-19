@@ -1,16 +1,11 @@
-# wav2lip_chinese
+# wav2lip_chinese 模型效果已更新 请重新拉整个库 并手动下载新的权重2024-10-20
 
-#如果你也想加入 请联系微信:xaaheng 我们已创建讨论组一起讨论 记得看调试窗口~
+#如果你也想加入 请联系微信:xaaheng 我们已创建讨论组一起讨论 记得看调试窗口~ 因为一些原因 权重、代码已加密 本储存库仅供学习 不要拿他来干任何坏事哦~
 
-#程序不联网 因为一些原因 权重、代码已加密 本储存库仅供学习 不要拿他来干任何坏事哦~
+#模型（已加密）: [https://github.com/zvxme/wav2lip_chinese/releases/tag/checkpoint_20241014](https://github.com/zvxme/wav2lip_chinese/releases/tag/checkpoint)
 
-#模型: https://github.com/zvxme/wav2lip_chinese/releases/tag/checkpoint_20241014
-
-#已完成：推理长视频》tts
 
 #正在做：ai大模型》直播》字幕》语音克隆
-
-#已经完成： 快速推理 （推理1分钟视频 耗时小于1分钟）欢迎在提问区分享 推理速度、推理设备
 
 【看不懂】 请私信 douzijun1999（给他点小红包 不然他要刁我）
 
