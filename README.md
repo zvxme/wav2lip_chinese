@@ -6,7 +6,11 @@
 
 
 
-https://github.com/user-attachments/assets/3c284bac-4de1-4bb8-b240-c9c7acb55983
+
+
+https://github.com/user-attachments/assets/e8d76e92-fa79-4efa-95b7-61062abfec69
+
+
 
 
 #正在做：ai大模型》直播》字幕》语音克隆
